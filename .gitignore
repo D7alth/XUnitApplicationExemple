@@ -1,0 +1,5 @@
+.vscode
+domain/bin
+domain/obj
+domain.tests/bin
+domain.tests/obj
